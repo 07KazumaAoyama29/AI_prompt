@@ -119,3 +119,11 @@ Phase0を行いました
 ## step5 Phase3の、書き終わりまで文章を書いてもらう
 
 ## step6 AIの出力した文章を見ながら修正を行う。
+
+## 参考文献一覧
+三宅香帆『「好き」を言語化する技術』ディスカヴァー・トゥエンティワン (2023)
+
+**Acknowledgement**  
+This material was reviewed and refined with the assistance of ChatGPT (OpenAI) and Gemini(Google).
+
+Kazuma Aoyama(bloodtune65@gmail.com)
